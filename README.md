@@ -1,4 +1,5 @@
 # Discord Reporting Tool 🚀
+![A](./f02cdb31_preview_rev_1.png)
 
 ## Description 🥋
 
